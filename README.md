@@ -9,7 +9,7 @@ Create a desktop application from website using Nativefier
 ## Installing
 
 ```sh
-curl -o webaap.sh https://raw.githubusercontent.com/4lysson-a/Webaap/main/app/Webaap.sh | sudo chmod +x webaap.sh 
+curl -o webaap.sh https://raw.githubusercontent.com/alysnnix/Webaap/main/app/Webaap.sh | sudo chmod +x webaap.sh 
 ```
 
 ## Usage
