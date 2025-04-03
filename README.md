@@ -26,4 +26,4 @@ sudo rm -r webaap.sh
 
 ### Documentation is available here
 
-[Webaap docs](https://4lysson-a.github.io/Webaap/)
+[Webaap docs](https://alysnnix.github.io/Webaap/)
